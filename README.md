@@ -11,6 +11,8 @@ Implementation:
   - draws the spaceship, meteors and rockets
   - checks if the meteor touched the spaceship - the function that ends and resets the game - or the spaceship went into a meteor
   
+Demo Video: https://photos.app.goo.gl/NUAnD6Geg3Hok1xL6
+  
 Requirements:
  - library <LedControl.h>
  
